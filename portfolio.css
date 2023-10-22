@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient (  rgb(18, 1, 1), rgb(167, 79, 150));
+}
+
+header{
+    background-color: indigo;
+    color: rgb(249, 242, 242);
+    text-align: center;
+    padding: 1 rem 0;
+    position: relative;
+}
+
+.my-pic{
+    width: 90px;
+    height: 90px;
+    border-radius: 75%;
+    object-fit: cover;
+    position: absolute;
+    /* top : 55px; */
+    left: 85px;
+}
+
+nav{
+    background-color: indigo;
+    color: rgb(7, 0, 0);
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+    margin: 0 20px;
+}
+
+nav ul li a{
+    color: rgb(90, 118, 118);
+}
+
+.section{
+    background-color: rgb(251, 202, 142);
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 20px;
+    box-shadow:4px 4px 4px rgb(216, 145, 145);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
